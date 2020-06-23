@@ -1,0 +1,4 @@
+Z:\GITHUB\APIdatabases\Data.Access.Oracle\bin\Debug\netcoreapp3.1\Entities.dll
+Z:\GITHUB\APIdatabases\Data.Access.Oracle\obj\Debug\netcoreapp3.1\Data.Access.Oracle.csprojAssemblyReference.cache
+Z:\GITHUB\APIdatabases\Data.Access.Oracle\obj\Debug\netcoreapp3.1\Data.Access.Oracle.AssemblyInfoInputs.cache
+Z:\GITHUB\APIdatabases\Data.Access.Oracle\obj\Debug\netcoreapp3.1\Data.Access.Oracle.AssemblyInfo.cs

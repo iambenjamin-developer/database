@@ -1,0 +1,4 @@
+Z:\GITHUB\APIdatabases\Data.Access.SqlServer\bin\Debug\netcoreapp3.1\Entities.dll
+Z:\GITHUB\APIdatabases\Data.Access.SqlServer\obj\Debug\netcoreapp3.1\Data.Access.SqlServer.csprojAssemblyReference.cache
+Z:\GITHUB\APIdatabases\Data.Access.SqlServer\obj\Debug\netcoreapp3.1\Data.Access.SqlServer.AssemblyInfoInputs.cache
+Z:\GITHUB\APIdatabases\Data.Access.SqlServer\obj\Debug\netcoreapp3.1\Data.Access.SqlServer.AssemblyInfo.cs
